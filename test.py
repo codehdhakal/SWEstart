@@ -1,2 +1,2 @@
 # This is a print
-print("Bye!")
+print("Bye Friend!")
